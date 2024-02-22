@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/course/static/css/main.873fb8d2.css",
-    "main.js": "/course/static/js/main.645bed39.js",
-    "index.html": "/course/index.html",
-    "main.873fb8d2.css.map": "/course/static/css/main.873fb8d2.css.map",
-    "main.645bed39.js.map": "/course/static/js/main.645bed39.js.map"
+    "main.css": "/five-pages-website/static/css/main.6f26c509.css",
+    "main.js": "/five-pages-website/static/js/main.c5695c38.js",
+    "static/media/student.jpg": "/five-pages-website/static/media/student.fb87fefe5d21a7a89e83.jpg",
+    "index.html": "/five-pages-website/index.html",
+    "main.6f26c509.css.map": "/five-pages-website/static/css/main.6f26c509.css.map",
+    "main.c5695c38.js.map": "/five-pages-website/static/js/main.c5695c38.js.map"
   },
   "entrypoints": [
-    "static/css/main.873fb8d2.css",
-    "static/js/main.645bed39.js"
+    "static/css/main.6f26c509.css",
+    "static/js/main.c5695c38.js"
   ]
 }
